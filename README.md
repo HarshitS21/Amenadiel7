@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amenadiel7
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Python and Django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...harshitshukla21@gmail.com
 
 <!---
