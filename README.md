@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amenadiel7
+- 👋 Hi, I’m @Harshit
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Python and Django
 - 📫 How to reach me ...harshitshukla21@gmail.com
