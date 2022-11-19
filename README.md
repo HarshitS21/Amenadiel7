@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Python and Django
+- 👀 I’m interested in ...Coding And Software Development
+- 🌱 I’m currently learning ...Machine Learning
 - 📫 How to reach me ...harshitshukla21@gmail.com
 
 <!---
